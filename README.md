@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineer & Software Developer</h3>
 
 - 🔭 I’m currently working on **mobile application development**
-- 🌱 I’m currently learning **Xcode, UIKit and SwiftUI, ARKit, CoreML and CoreData**
+- 🌱 I’m currently learning **Xcode, UIKit and SwiftUI, ARKit, CoreML, CoreData & SwiftData**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
